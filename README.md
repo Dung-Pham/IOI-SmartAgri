@@ -24,6 +24,7 @@
 ## Cài đặt phần mềm
 ### Broker
 - Chạy file $\color{green}{{broker.js}}$ ở folder $\color{violet}{{\textbf{mqtt-broker}}}$ để chạy broker
+
 [$\color{yellow}{{Lưu ý}}$] 
     - Dùng chung 1 mạng với các thiết bị 
     - Lấy địa chỉ $\color{green}{{broker}}$ đang chạy local được in ra khi khởi động broker 
